@@ -1,0 +1,10 @@
+.container{
+	width:1000px;
+	margin:0px auto 50px;
+	font-size: 20px;
+} 
+
+.container h1{
+	font-family:'Caveat';
+	font-size:50px;
+}
